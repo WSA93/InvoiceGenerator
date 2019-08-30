@@ -1,4 +1,4 @@
-# InvoiceGenerator
+# Invoice Generator
 It is a desktop based invoice generator program developed for logistics business. 
 
 The invoice is consist of current date, invoice number, billing period and route name.
